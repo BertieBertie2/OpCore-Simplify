@@ -9,4 +9,5 @@ AMDCodenames = [
     "Hawaii",
     "Tonga",
     "Fiji"
+    "Ampere"
 ]
